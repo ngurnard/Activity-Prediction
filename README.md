@@ -12,5 +12,8 @@ help fitness instructors monitor the progress of their clientele.
 
 The "main.R" script containts the majority of code used in this project.
 The "tables.R" script contains the code used to make tables.
-The "graph_maker.R" script contains the code that creates graph of acceleration reading
-  over time for each user, each activity, and each device.
+The "graph_maker.R" script contains the code that creates graph of acceleration 
+reading over time for each user, each activity, and each device.
+  
+The data from this project comes from the WISDM smartphone and smartwatch activity 
+and biometrics dataset found in the UCI Machine Learing Repository.
