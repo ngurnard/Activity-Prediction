@@ -49,10 +49,7 @@ mult.cols = function(x) rollmean(x, k = 10, fill = NA, align = "right")
 
 
 ## Set the working directory to the place where you are reading the data in from and then import desired data
-# Desktop
-setwd("D:/R_Stuff/R_Projects/Final_Project")
-# Laptop
-setwd("C:/Users/Nick's Laptop/Desktop/R/FinalProject_MachineLearning")
+setwd("Example_Directory")
 
 # Desktop
 phoneacc_files <- list.files(path = "wisdm-dataset/wisdm-dataset/raw/phone/accel", pattern = "*.txt", full.names = TRUE) 
