@@ -9,3 +9,8 @@ such as walking, typing, eating, etc. Then, the variable that matters most when
 attempting to create a predictive model is identified. This project is noteworthy 
 because it has the potential to save thousands of lives in the medical field or 
 help fitness instructors monitor the progress of their clientele. 
+
+The "main.R" script containts the majority of code used in this project.
+The "tables.R" script contains the code used to make tables.
+The "graph_maker.R" script contains the code that creates graph of acceleration reading
+  over time for each user, each activity, and each device.
