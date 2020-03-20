@@ -26,7 +26,7 @@ library(gridExtra)
 
 # Created Functions -------------------------------------------------------
 
-# Finding the peaks. Credit to dud here: https://github.com/stas-g/findPeaks
+# Finding the peaks. Credit here: https://github.com/stas-g/findPeaks
 find_peaks <- function (x, m = 3){ 
   shape <- diff(sign(diff(x, na.pad = FALSE)))
   pks <- sapply(which(shape < 0), FUN = function(i){
