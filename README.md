@@ -17,3 +17,5 @@ reading over time for each user, each activity, and each device.
   
 The data from this project comes from the WISDM smartphone and smartwatch activity 
 and biometrics dataset found in the UCI Machine Learing Repository.
+
+A quick note: This was my first ever major project involving programming. This project was pursued during my studies as a mechanical engineering undergradute, and thus at the time I did not know coding conventions and best practices. This is something I am improving over time via application and other projects. If there are any questions about the code, feel free to ask!
